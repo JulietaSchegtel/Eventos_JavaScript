@@ -9,7 +9,7 @@ window.onload = function(){
     let menu = document.getElementById('menu');
     let logoDH = document.querySelector('.logoDH');
 
-    let nombre = 'Julieta'
+    let nombre = 'Julieta Schegtel'
     console.log(nombre);
     if(nombre !=''){
         subtitulo.innerHTML += nombre;
